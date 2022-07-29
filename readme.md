@@ -23,6 +23,6 @@ Para acessa-los basta acessar a pasta: targets/reports/index.html
 
 
 <h3>🏃 Como executar o projeto:  </h3>
-Para executar o teste automatizado deve-se clonar o repositório em uma IDE, e executa-lo através da classe: RunCucumberTest.java
+Para executar o teste automatizado deve-se clonar o repositório em uma IDE, e executa-lo através da classe: RunCucumberTest.java <br>
 <li>Para clonar o repositório escreva o comando abaixo: </li> <br>
 git clone https://github.com/Silassousa-cod/DesafioQAJusta.git
